@@ -1,0 +1,6 @@
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\bin\Debug\Libreria.dll
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\bin\Debug\Libreria.pdb
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\obj\Debug\Libreria.dll
+C:\Users\Ivanesa\source\repos\FactuxD\Libreria\obj\Debug\Libreria.pdb
